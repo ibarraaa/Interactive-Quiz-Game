@@ -46,6 +46,97 @@ const quizData = [
       { text: "1960", correct: false },
     ],
   },
+
+  {
+    question: "What is the largest ocean in the world?",
+    answers: [
+      { text: "Atlantic Ocean", correct: false },
+      { text: "Indian Ocean", correct: false },
+      { text: "Arctic Ocean", correct: false },
+      { text: "Pacific Ocean", correct: true },
+    ],
+  },
+  {
+    question: "Who painted the Mona Lisa?",
+    answers: [
+      { text: "Vincent van Gogh", correct: false },
+      { text: "Pablo Picasso", correct: false },
+      { text: "Leonardo da Vinci", correct: true },
+      { text: "Michelangelo", correct: false },
+    ],
+  },
+  {
+    question: "What is the currency of Japan?",
+    answers: [
+      { text: "Yuan", correct: false },
+      { text: "Won", correct: false },
+      { text: "Yen", correct: true },
+      { text: "Rupee", correct: false },
+    ],
+  },
+  {
+    question: "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    answers: [
+      { text: "Mars", correct: false },
+      { text: "Venus", correct: true },
+      { text: "Neptune", correct: false },
+      { text: "Uranus", correct: false },
+    ],
+  },
+  {
+    question: "Who wrote the play 'Romeo and Juliet'?",
+    answers: [
+      { text: "William Shakespeare", correct: true },
+      { text: "Charles Dickens", correct: false },
+      { text: "Jane Austen", correct: false },
+      { text: "Mark Twain", correct: false },
+    ],
+  },
+  {
+    question: "What is the chemical symbol for gold?",
+    answers: [
+      { text: "Au", correct: true },
+      { text: "Ag", correct: false },
+      { text: "Cu", correct: false },
+      { text: "Fe", correct: false },
+    ],
+  },
+  {
+    question: "Which famous scientist developed the theory of relativity?",
+    answers: [
+      { text: "Isaac Newton", correct: false },
+      { text: "Albert Einstein", correct: true },
+      { text: "Marie Curie", correct: false },
+      { text: "Galileo Galilei", correct: false },
+    ],
+  },
+  {
+    question: "What is the national animal of India?",
+    answers: [
+      { text: "Lion", correct: false },
+      { text: "Elephant", correct: true },
+      { text: "Tiger", correct: false },
+      { text: "Peacock", correct: false },
+    ],
+  },
+  {
+    question: "Which country is known as the 'Land of the Rising Sun'?",
+    answers: [
+      { text: "China", correct: false },
+      { text: "Japan", correct: true },
+      { text: "India", correct: false },
+      { text: "South Korea", correct: false },
+    ],
+  },
+  {
+    question: "Who is the author of the Harry Potter book series?",
+    answers: [
+      { text: "J.R.R. Tolkien", correct: false },
+      { text: "J.K. Rowling", correct: true },
+      { text: "Stephenie Meyer", correct: false },
+      { text: "George R.R. Martin", correct: false },
+    ],
+  },
   
 ];
 
