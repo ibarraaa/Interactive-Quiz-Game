@@ -137,7 +137,7 @@ const quizData = [
       { text: "George R.R. Martin", correct: false },
     ],
   },
-  
+  //add
 ];
 
 // Get necessary DOM elements
